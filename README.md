@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Based Market Forecasting**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Reactjs, Nodejs**
 
