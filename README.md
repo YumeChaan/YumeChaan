@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Reactjs,Nodejs**
+- 💬 Ask me about **Reactjs, Nodejs**
 
 - 📫 How to reach me **chan.19@cse.mrt.ac.lk**
 
